@@ -1,5 +1,8 @@
 # PSL update
-#URLS.DB of pil
+#URLS of pil package manager
+#
+
+
 
 #GamesPort pack (By -EISHU-)
-gamesport:https://github.com/EISHU92/gamesport/releases/download/games/GamesPort.tar
+gamesport:github.com/EISHU92/gamesport/releases/download/games/GamesPort.tar
