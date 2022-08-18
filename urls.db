@@ -2,7 +2,11 @@
 #URLS of pil package manager
 #
 
+#TextViewer pack (By -EISHU-)
+textviewer:nescar-ei.github.io/packages/t/textviewer/textviewer.tar
 
+#MPG 123 pack (By -EISHU-)
+mpg123:nescar-ei.github.io/packages/m/mpg123/mpg123.tar
 
 #GamesPort pack (By -EISHU-)
 gamesport:github.com/EISHU92/gamesport/releases/download/games/GamesPort.tar
